@@ -1,5 +1,5 @@
-# mySql_exmp
-Ejemplo API-Rest usando Spring-Boot, Hibernate y MySQL version 1.0
+# mySql_exmp version 1.0
+Ejemplo API-Rest usando Spring-Boot, Hibernate y MySQL 
 
    El ejemplo esta desarrollado utilizando Maven, SripngBoot y Hibernate <JAVAX>
 
